@@ -43,5 +43,4 @@ async function testCRUD() {
   
 process.exit(0);
 }
-
 testCRUD();
