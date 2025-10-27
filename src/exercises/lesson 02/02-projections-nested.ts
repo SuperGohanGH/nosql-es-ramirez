@@ -91,7 +91,7 @@ export const esercizio02 = async () => {
 
 esercizio02();
 
-\\ OUTPUT:
+// OUTPUT:
 // 📝 Esercizio 02: Projections Nested
 
 // A) Prodotti con rating medio:

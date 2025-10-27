@@ -9,6 +9,7 @@
     "start": "tsc && node dist/index.js",
     "build": "tsc",
     "dev": "ts-node src/index.ts"
+
   },
   
   "repository": {
